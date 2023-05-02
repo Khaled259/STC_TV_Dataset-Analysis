@@ -11,7 +11,11 @@ The following tasks can be performed using the code in this repository:
 ### 2- Study the different viewing patterns of users and determine the category that watches stc TV in standard definition (SD) versus the category that watches it in high quality (HD). Build an easy and simple model that enables officials to make decisions and make them able to predict the number of expected views of customers during the next two months, and determine possible peak times.
 ### 3- Build a model to provide recommendations to the user based on the views of other users who share the same preferences, to make the viewing experience on stc TV richer and richer. Show top 5 recommendations for people who watched Moana.
 # Data
-
+ 
+ ## Links:
+   ##### Task 1 : "https://drive.google.com/file/d/1dMLR-YsabGbsvPMBGfVZwzgkjx97sfWM/view"
+   ##### Task 2 : "https://drive.google.com/file/d/1v835b8rybOTMDdlRvGCBwt3wp-C_Qxqy/view"
+   ##### Task 3 : "https://drive.google.com/file/d/1RSvIpkPuclg8xAWhd80xA_tYN3ytnZa5/view"
 #### The data used in this repository is available in the following files:
 
 ##### 1- stc_tv_dataset.xlsb : This file contains the following columns:
